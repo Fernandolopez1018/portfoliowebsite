@@ -83,6 +83,12 @@ a{
         text-align: center;
         position: absolute;
     }
+    .firstsection {
+
+        padding: 10px;
+        font-size: 20px;
+        
+    }
 }
 
 /*this changes background color, color, and text formate of title*/
@@ -101,7 +107,6 @@ h1{
 
 h2{
     color: white;
-    text-align: center;
 }
 /*this changes all h3 tags*/
 
@@ -125,4 +130,16 @@ img{
 .pic{
     width: 250px; 
     position: auto;
+}
+
+.firstsection {
+
+    padding: 10px;
+    font-size: 10px;
+    text-align: justify;
+}
+
+.thirdsection{
+    padding: 10px;
+    text-decoration: none;
 }
